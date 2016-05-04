@@ -1,0 +1,11 @@
+/*reset*/
+body{font-family: "microsoft yahei","微软雅黑";}
+body,ul,li,ol,img{margin: 0;padding: 0;}
+li{list-style: none;}
+
+.nav{margin:0 auto;}
+/*example*/
+.nav{}
+.nav ol{position:relative;width: 80px;height: 20px;top:-30px;left:60px;}
+.nav ol li{float:left;width: 10px;height: 10px;margin: 5px;background: #fff;}
+.nav ol li.seleted{background: #1AA4CA;}
