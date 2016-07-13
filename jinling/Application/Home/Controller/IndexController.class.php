@@ -139,8 +139,6 @@ class IndexController extends Controller {
         $Page -> setConfig('next','下一页');
         $Page -> setConfig('first','首页');
         $Page -> setConfig('last','伟业');
-        //$Page -> setConfig('theme','%FIRST% %UP_PAGE% %LINK_PAGE% %DOWN_PAGE% %END%');
-         // print_r($art_data);die;
           $show =$Page->show();
         // echo $show;
         // echo $count.'条记录';die;
