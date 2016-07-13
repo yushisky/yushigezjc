@@ -21,7 +21,7 @@ define('APP_DEBUG',True);
 define('RUNTIME_PATH','./Runtime/');
 
 // 定义应用目录，入口文件
-define('APP_PATH','Application/');
+define('APP_PATH','./Application/');
 //define('APP_NAME','test');
 //define('APP_PATH','./test/');
 //define('__APP__');
