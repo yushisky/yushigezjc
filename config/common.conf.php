@@ -18,7 +18,7 @@ include(BOOT_PATH.'/include/common.fun.php');
 $url = 'http://phpsql.wdcase.com';
 $user = 'by1600015';
 $password = 'pass123456';
-$database = "mo_he";
+$database = "by1600015";
 $conn = conn($url,$user,$password,$database);
 //引入公共数据
 // require('common.data.php');
