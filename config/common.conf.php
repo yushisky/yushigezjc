@@ -15,11 +15,11 @@ include(BOOT_PATH.'/include/common.fun.php');
 // 引入公共函数库
 // 引入公共函数库
 //include('../include/common.fun.php');
-
-$user = 'localhost';
+$url = 'localhost';
+$user = 'by1600015';
 $password = 'pass123456';
 $database = "by1600015";
-$conn = conn($user,$password,$database);
+$conn = conn($url,$user,$password,$database);
 //引入公共数据
 // require('common.data.php');
 ?>
