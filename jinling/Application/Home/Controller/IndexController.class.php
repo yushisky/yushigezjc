@@ -127,6 +127,10 @@ class IndexController extends Controller {
         $this->display('index/about_us');
      }
      public function art_list(){
+        $article = D('article');
+		$limit = 8;
+        $art_data = $article->cat_alll($limit);
+		 
         // layout(false);
         // print_r(I('get.'));die;
         $cat_id = I('get.cat_id');

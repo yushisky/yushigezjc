@@ -26,6 +26,9 @@
 		public function cat_count($cat_id){
 		return $this->where('article_aid =' .$cat_id)->count();
 		}
+		public function cat_alll($limit){
+		return $this->limit($limit)->select();
+		}
 		
 
 }
