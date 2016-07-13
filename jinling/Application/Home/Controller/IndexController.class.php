@@ -153,7 +153,7 @@ class IndexController extends Controller {
         // print_r($art_data);die;
         // echo $show;
         // echo $count.'条记录';die;
-        $this->display('index/list');
+        $this->display('index/list_data');
      }
     public function products(){
         $Product = D('product');
