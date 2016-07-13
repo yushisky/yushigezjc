@@ -108,7 +108,7 @@ class IndexController extends Controller {
           // print_r($art_info);die;
          // echo $article->getlastsql();die;
         $this->assign('art_info',$art_info);
-        $this->display('/index/detail');
+        $this->display('index/detail');
      }
      public function about_us(){
         //====公司简介Aboutus====
@@ -124,7 +124,7 @@ class IndexController extends Controller {
         // echo $article->getlastsql();die;
         $this->assign('us_data',$us_data);
         $this->assign('us_info',$us_info);
-        $this->display('/index/about_us');
+        $this->display('index/about_us');
      }
      public function art_list(){
         // layout(false);
@@ -153,7 +153,7 @@ class IndexController extends Controller {
         // print_r($art_data);die;
         // echo $show;
         // echo $count.'条记录';die;
-        $this->display('/index/list');
+        $this->display('index/list');
      }
     public function products(){
         $Product = D('product');
