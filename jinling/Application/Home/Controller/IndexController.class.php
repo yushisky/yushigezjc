@@ -131,8 +131,8 @@ class IndexController extends Controller {
         // print_r(I('get.'));die;
         $cat_id = I('get.cat_id');
         $article = D('article');
-		print_r($article);die;
         $count= $article->cat_count($cat_id);
+		echo $article->getlastsql();die;
         $Page = new \Think\Page($count,5);
         $Page -> rollPage = 5;
         $Page -> lastSuffix = false;
