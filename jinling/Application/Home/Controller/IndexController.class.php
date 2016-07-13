@@ -88,7 +88,7 @@ class IndexController extends Controller {
           $this->assign('art_datail',$art_datail);
          $this->assign('art_data1',$art_data1);
         $this->assign('art_data',$art_data);
-        $this->display('/index/index');
+        $this->display('index/index');
         // http://www.jinling.com/home/Index/indexone
         
     }
