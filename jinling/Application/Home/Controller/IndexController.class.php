@@ -126,7 +126,7 @@ class IndexController extends Controller {
         $this->assign('us_info',$us_info);
         $this->display('index/about_us');
      }
-     public function list(){
+     public function art_list(){
         // layout(false);
         // print_r(I('get.'));die;
         $cat_id = I('get.cat_id');
