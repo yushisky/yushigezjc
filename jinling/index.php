@@ -24,7 +24,7 @@ define('RUNTIME_PATH','./Runtime/');
 define('APP_PATH','./Application/');
 //define('APP_NAME','test');
 //define('APP_PATH','./test/');
-
+define('__APP__');
 // 绑定入口文件到Admin模块访问
 //define('BIND_MODULE','Home');
 // define('_APP_','');
