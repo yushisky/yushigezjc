@@ -126,7 +126,7 @@ class IndexController extends Controller {
         $this->assign('us_info',$us_info);
         $this->display('index/about_us');
      }
-     public function art_list(){
+     public function list(){
         // layout(false);
         // print_r(I('get.'));die;
         $cat_id = I('get.cat_id');
@@ -153,7 +153,7 @@ class IndexController extends Controller {
         // print_r($art_data);die;
         // echo $show;
         // echo $count.'条记录';die;
-        $this->display('index/list_data');
+        $this->display('index/list');
      }
     public function products(){
         $Product = D('product');
