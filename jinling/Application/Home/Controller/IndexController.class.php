@@ -127,10 +127,7 @@ class IndexController extends Controller {
         $this->display('index/about_us');
      }
      public function art_list(){
-        $article = D('article');
-		$limit = 8;
-        $art_data = $article->cat_alll($limit);
-		 
+        
         // layout(false);
         // print_r(I('get.'));die;
         $cat_id = I('get.cat_id');
@@ -156,6 +153,15 @@ class IndexController extends Controller {
         // echo $count.'条记录';die;
         $this->display('index/list');
      }
+	 public function list_data(){
+		$article = D('article');
+		$limit = 8;
+        $list_datail = $article->cat_alll($limit);
+		echo $list_datail->getlastsql();die;
+		$this->assign('list_datail',$list_datail);
+		$this->display('/index/list_data');
+
+      }
     public function products(){
         $Product = D('product');
         $count = $Product->Pro_count();
