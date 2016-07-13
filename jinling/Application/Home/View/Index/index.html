@@ -1,0 +1,97 @@
+<!-- <include file="index:header"/> -->
+<div class="banner">
+        <div class="effect">
+                <div id="slideBox" class="slideBox">
+                    <div class="hd">
+                        <ul>
+                            <li>1</li>
+                            <li>2</li>
+                            <li>3</li>
+
+                        </ul>
+                    </div>
+                    <div class="bd">
+                        <ul>
+                            <li><img src="__PUBLIC__/home/images/lrgimg2.jpg" /></li>
+                            <li><img src="__PUBLIC__/home/images/lrgimg5.jpg" /></li>
+                            <li><img src="__PUBLIC__/home/images/lrgimg6.jpg" /></li>
+                        </ul>
+                    </div>
+                </div>
+        </div>  
+</div>
+<div class="content">
+	<div class="w475_l">
+    	<div class="title">
+        	<h2 class="cBlue fB">公司简介<b class="cGrey fn">About us</b></h2>
+        </div>
+        <div class="intro">
+            <foreach name ="art_datail" item="val"> 
+                <{$val.article_title}>
+                <a href="<{:U('home/index/about_us',array('art_id'=>$val['id']))}>" class="cBlue"> 查看更多...</a>
+                <div class="hackbox"></div>
+            </foreach>
+        </div>
+        <div class="blank10"></div>
+        <div class="title">
+        	<h2 class="cBlue fB">产品展示<b class="cGrey fn">Products</b></h2><span class="more"><a href="#" class="cBlue"> 更多...</a></span>
+        </div>
+        <ul class="list_l">
+        	<li>
+                <span class="listimg">
+                    <img src="__PUBLIC__/home/images/tran.gif" class="blank" /><a href="#"><img src="__PUBLIC__/home/images/prod1.gif" alt="产品1" /></a>
+                </span>
+                <span class="listtxt">网格布</span>
+            </li>
+        	<li>
+                <span class="listimg">
+                    <img src="__PUBLIC__/home/images/tran.gif" class="blank" /><a href="#"><img src="__PUBLIC__/home/images/prod2.gif" alt="产品2" /></a>
+                </span>
+                <span class="__PUBLIC__/home/listtxt">橡塑板</span>
+            </li>
+            <li>
+                <span class="listimg">
+                    <img src="__PUBLIC__/home/images/tran.gif" class="blank" /><a href="#"><img src="__PUBLIC__/home/images/prod3.jpg" alt="产品3" /></a>
+                </span>
+                <span class="listtxt">橡塑管</span>
+            </li>
+        </ul>
+    </div>
+    <div class="w370_r">
+    	<div class="title">
+        	<h2 class="cBlue fB">最新公告<b class="cGrey fn">News</b></h2>
+        </div>
+        <ul class="list_r">
+        <foreach name="art_data1" item="val">
+            <li><a href="<{:U('home/index/detail',array('art_id'=>$val['id']))}>"><{$val.article_title}></a><span class="time1"><{$val.article_addtime|date="y-m-d",###}></span></li>
+        </foreach>
+           <!--  <li><a href="#">禁止保温材料现场调配 保证节能建材真正... </a><span class="time1">2009-07-10</span></li>
+            <li><a href="#">节能65%烧结页岩空心砖面世 </a><span class="time1">2009-07-10</span></li>
+            <li><a href="#">新到璃心玻璃棉管 欢迎订购 </a><span class="time1">2009-07-10</span></li>
+            <li><a href="#">祝贺公司网站正式上线</a><span class="time1">2009-07-10</span></li> -->
+        </ul>
+        <div class="blank29"></div>
+        <div class="title">
+        	<h2 class="cBlue fB">行业知识<b class="cGrey fn">Knowlege</b></h2><span class="more"><a href="<{:U('Home/index/art_list/cat_id/3')}>" class="cBlue"> 更多...</a></span>
+        </div>
+        <ul class="list_r">
+            <foreach name="art_data" item="val">
+            <li><a href="<{:U('home/index/detail',array('art_id'=>$val['id']))}>">
+            <{$val.article_title}></a><span class="time1"><{$val.article_addtime|date="y-m-d",###}></span></li>
+            </foreach>
+            <!-- <li><a href="#">禁止保温材料现场调配 保证节能建材真正... </a><span class="time1">2009-07-10</span></li>
+            <li><a href="#">节能65%烧结页岩空心砖面世 </a><span class="time1">2009-07-10</span></li>
+            <li><a href="#">节能减排推动建筑陶瓷企业科技创新  </a><span class="time1">2009-07-10</span></li>
+            <li><a href="#">新型墙体材料合格率仅为85.1%    </a><span class="time1">2009-07-10</span></li> -->
+        </ul>
+    </div>
+    <div class="hackbox"></div>
+    
+	<div class="title">
+        	<h2 class="cBlue fB">友情链接<b class="cGrey fn">Links</b></h2>
+    </div>
+    <p class="links"><a href="#">卓越网上购物</a> | <a href="#">京东网上商城</a> | <a href="#">携程旅行网</a> | <a href="#">太平洋电脑网</a> | <a href="#">中国移动</a> | <a href="#">中国政府网</a> | <a href="#">凤 凰 网</a></p>
+</div>
+    <include file="index:footer"/>
+</body>
+</html>
