@@ -12,7 +12,7 @@
 	<div class="head">
 		<div class="topNav">
 			<div class="topNavList">
-				<a href="mohe/index.php">漠河</a>
+				<a href="mo_he/index.php">漠河</a>
 				<a href="http://www.xwyfxx.com/temp/index.php">团队项目 Templates</a>
 				<a href="wengdo/index.php">文豆网络</a>
 				<a href="jinling/index.php">金陵项目</a>
