@@ -30,9 +30,9 @@
 					<span><i class="subBgTopLeft"></i><i class="subBgBotLeft"></i></span>
 					<ul>
 						<li>
-							<a href="#">关于我们1</a> 
-							<a href="#">关于我们2</a> 
-							<a href="#">关于我们3</a>
+							<a href="#">项目简介</a> 
+							<a href="#"></a> 
+							<a href="#"></a>
 						</li>
 					</ul>
 					<span class="features">
@@ -44,9 +44,9 @@
 					<span><i class="subBgTopLeft"></i><i class="subBgBotLeft"></i></span>
 					<ul>
 						<li>
-							<a href="#">行业考察1</a> 
-							<a href="#">行业考察2</a> 
-							<a href="#">行业考察3</a>
+							<a href="#">项目简介</a> 
+							<a href="#"></a> 
+							<a href="#"></a>
 						</li>
 					</ul>
 					<span class="features">
@@ -58,13 +58,13 @@
 					<span><i class="subBgTopLeft"></i><i class="subBgBotLeft"></i></span>
 					<ul>
 						<li>
-							<a href="#">电子功能材料</a> 
-							<a href="#">高性能纤维材料</a> 
-							<a href="#">净化工程</a> 
-							<a href="#">超净产品</a> 
-							<a href="#">医疗产品</a> 
-							<a href="#">护理产品</a> 
-							<a href="#">精密模具</a>
+							<a href="#">项目简介</a> 
+							<a href="#"> </a> 
+							<a href="#"> </a> 
+							<a href="#"> </a> 
+							<a href="#"> </a> 
+							<a href="#"> </a> 
+							<a href="#"> </a>
 						</li>
 					</ul>
 					<span class="features">
@@ -76,9 +76,9 @@
 					<span><i class="subBgTopLeft"></i><i class="subBgBotLeft"></i></span>
 					<ul>
 						<li>
-							<a href="#">技术研发</a>
-							<a href="#">专业测试</a> 
-							<a href="#" >技术咨询服务</a>
+							<a href="#">项目简介</a>
+							<a href="#"> </a> 
+							<a href="#" > </a>
 						</li>
 					</ul>
 					<span class="features">
@@ -90,13 +90,13 @@
 					<span><i class="subBgTopLeft"></i><i class="subBgBotLeft"></i></span>
 					<ul>
 						<li>
-							<a href="#"> 基本信息</a> 
-							<a href="#">公司治理</a> 
-							<a href="#">定期报告</a> 
-							<a href="#"> 临时公告</a> 
-							<a href="#">投资者交流</a>
-							<a href="#">分析研究报告</a> 
-							<a href="#"> 股息资料</a>
+							<a href="#"> 项目简介</a> 
+							<a href="#"> </a> 
+							<a href="#"> </a> 
+							<a href="#">  </a> 
+							<a href="#"> </a>
+							<a href="#"> </a> 
+							<a href="#">  </a>
 						</li>
 					</ul>
 					<span class="features">
@@ -108,8 +108,8 @@
 					<span><i class="subBgTopLeft"></i><i class="subBgBotLeft"></i></span>
 					<ul>
 						<li>
-							<a href="#">人才理念</a> 
-							<a href="#">人才招聘</a> 
+							<a href="#">项目简介</a> 
+							<a href="#"> </a> 
 						</li>
 					</ul>
 					<span class="features">
