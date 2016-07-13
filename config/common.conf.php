@@ -16,7 +16,7 @@ include(BOOT_PATH.'/include/common.fun.php');
 // 引入公共函数库
 //include('../include/common.fun.php');
 $url = 'http://phpsql.wdcase.com';
-$user = 'by1600015';
+$user = 'localhost';
 $password = 'pass123456';
 $database = "by1600015";
 $conn = conn($url,$user,$password,$database);
