@@ -145,10 +145,7 @@ class IndexController extends Controller {
         // echo $show;
         // echo $count.'条记录';die;
          $this-> assign('Page',$show);
-        // $art_data = $article->cat_list($cat_id,$Page->firstRow.','.$Page->listRows);
-        // $art_data = $article->cat_list($cat_id);
         $art_data = $article->where('article_aid ='.$cat_id)->limit($Page->firstRow.','.$Page->listRows)->order('id desc')->select();//源生方法
-         // $art_data = $article->where('article_aid ='.$cat_id)->limit($Page->firstRow.','.$limit)->order('id desc')->select();
         $this->assign('art_data',$art_data);
         // print_r($art_data);die;
         // echo $show;
