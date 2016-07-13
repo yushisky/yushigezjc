@@ -129,7 +129,7 @@ class IndexController extends Controller {
      public function art_list(){
         // layout(false);
         // print_r(I('get.'));die;
-        $cat_id = I('get.cat_id');
+        $cat_id = I('get.article_aid');
         $article = D('article');
         $count= $article->cat_count($cat_id);
         $Page = new \Think\Page($count,5);
