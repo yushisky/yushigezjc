@@ -131,7 +131,7 @@ class IndexController extends Controller {
         // print_r(I('get.'));die;
         $cat_id = I('get.cat_id');
         $article = D('article');
-		$limit = 5;
+		$limit = 8;
         $count= $article->cat_count($cat_id,$limit);
 		//echo $article->getlastsql();die;
         $Page = new \Think\Page($count,5);
