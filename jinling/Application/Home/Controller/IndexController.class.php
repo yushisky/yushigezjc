@@ -132,7 +132,7 @@ class IndexController extends Controller {
         $cat_id = I('get.cat_id');
         $article = D('article');
         $count= $article->cat_count($cat_id);
-		echo $article->getlastsql();die;
+		//echo $article->getlastsql();die;
         $Page = new \Think\Page($count,5);
         $Page -> rollPage = 5;
         $Page -> lastSuffix = false;
@@ -141,8 +141,8 @@ class IndexController extends Controller {
         $Page -> setConfig('first','首页');
         $Page -> setConfig('last','伟业');
           $show =$Page->show();
-        // echo $show;
-        // echo $count.'条记录';die;
+        echo $show;
+         echo $count.'条记录';die;
          $this-> assign('Page',$show);
         $art_data = $article->where('article_aid ='.$cat_id)->limit($Page->firstRow.','.$Page->listRows)->order('id desc')->select();//源生方法
         $this->assign('art_data',$art_data);
