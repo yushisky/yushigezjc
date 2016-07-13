@@ -97,7 +97,7 @@ $case_cat_data = get_all($sql);
 	<div class="clear_float"></div>
 	<div class="ye_tiao">
 			 <?php
-						$conf=array();
+						
 				echo pagination($total,$current,$limit,$size,$conf,'digg');
 				?>
 	</div>
