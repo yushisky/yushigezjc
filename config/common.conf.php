@@ -15,11 +15,11 @@ include(BOOT_PATH.'/include/common.fun.php');
 // 引入公共函数库
 // 引入公共函数库
 //include('../include/common.fun.php');
-$url = 'http://phpsql.wdcase.com';
+
 $user = 'localhost';
 $password = 'pass123456';
 $database = "by1600015";
-$conn = conn($url,$user,$password,$database);
+$conn = conn($user,$password,$database);
 //引入公共数据
 // require('common.data.php');
 ?>
