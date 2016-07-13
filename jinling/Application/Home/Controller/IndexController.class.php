@@ -131,7 +131,8 @@ class IndexController extends Controller {
         // print_r(I('get.'));die;
         $cat_id = I('get.cat_id');
         $article = D('article');
-        $count= $article->cat_count($cat_id);
+		$limit = 5;
+        $count= $article->cat_count($cat_id,$limit);
 		//echo $article->getlastsql();die;
         $Page = new \Think\Page($count,5);
         $Page -> rollPage = 5;
@@ -141,10 +142,10 @@ class IndexController extends Controller {
         $Page -> setConfig('first','首页');
         $Page -> setConfig('last','伟业');
           $show =$Page->show();
-        echo $show;
-         echo $count.'条记录';die;
+        // echo $show;
+        // echo $count.'条记录';die;
          $this-> assign('Page',$show);
-        $art_data = $article->where('article_aid ='.$cat_id)->limit($Page->firstRow.','.$Page->listRows)->order('id desc')->select();//源生方法
+		 $art_data = $article->where('article_aid ='.$cat_id)->limit($Page->firstRow.','.$limit)->order('id desc')->select();//源生方法
         $this->assign('art_data',$art_data);
         // print_r($art_data);die;
         // echo $show;
