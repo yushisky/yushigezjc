@@ -157,7 +157,7 @@ class IndexController extends Controller {
 		$article = D('article');
 		$limit = 8;
         $list_datail = $article->cat_alll($limit);
-		echo $list_datail->getlastsql();die;
+			//echo $list_datail->getlastsql();die;
 		$this->assign('list_datail',$list_datail);
 		$this->display('/index/list_data');
 
