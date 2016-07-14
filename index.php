@@ -113,8 +113,8 @@
 						</li>
 					</ul>
 					<span class="features">
-						<i><a href="#"><img width="177" height="100" src="images/index1.jpg"><em><strong>xxxxxxxxxxxxx。</strong></em></a></i>
-						<i><a href="#"><img width="177" height="100" src="images/index1.jpg"><em><strong>xxxxxxxxxxx。</strong></em></a></i>
+						<i><a href="#"><img width="177" height="100" src="images/1468462152.png"><em><strong></strong></em></a></i>
+						<i><a href="#"><img width="177" height="100" src="images/index1.jpg"><em><strong></strong></em></a></i>
 					</span>
 				</div>
 			</div>
