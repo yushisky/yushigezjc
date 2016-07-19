@@ -18,7 +18,7 @@
 				<a href="Smartys/index.php">Smartys模板引擎</a>
 				<a href="jinling/index.php/Home/Index">金陵项目</a>
 				<a href="#">关于我们</a>
-				<a href="#">联系我们</a>
+				<!--<a href="#">联系我们</a>-->
 				<div class="topNavSub">
 					<div class="activeLeft"></div>
 					<div class="activeRight"></div>
