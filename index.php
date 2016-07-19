@@ -78,7 +78,7 @@
 					<ul>
 						<li>
 							<a href="#">项目简介</a>
-							<a href="#"> </a> 
+							<a href="pro/list.php">Ajax</a> 
 							<a href="#" > </a>
 						</li>
 					</ul>
@@ -91,7 +91,7 @@
 					<span><i class="subBgTopLeft"></i><i class="subBgBotLeft"></i></span>
 					<ul>
 						<li>
-							<a href="#"> 项目简介</a> 
+							<a href="#">项目简介</a> 
 							<a href="#"> </a> 
 							<a href="#"> </a> 
 							<a href="#">  </a> 
