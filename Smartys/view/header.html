@@ -1,0 +1,59 @@
+<script type="text/javascript" src="js/lib/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="js/plugins/jquery.SuperSlide.2.1.1.js"></script>
+    <script type="text/javascript" src="js/menu.js"></script>
+    <script type="text/javascript">
+    $(function(){
+        $('#tab').slide({
+            titCell:'.tab-controll',
+            targetCell:'.list-article',
+            titOnClassName:'active'
+        });
+
+        $('#slide').slide({
+            mainCell:'.product'
+        });
+
+        $('#accordion').slide({
+            titCell:'.box .title',
+            targetCell:'.box-content'
+        });
+    });
+    </script>
+   <div class="header">
+        <div class="header-left">
+            <a href="index.html">
+                <img src="images/header-logo.jpg" class="logo" />
+            </a>
+        </div>
+        <div class="header-right">
+            <ul class="menu">
+                <li>
+                    <a href="register.php">注册</a>
+                </li>
+				<li> <a href="login.php">登陆</a></li>
+            </ul>
+            <div class="clear"></div>
+            <ul class="nav-main" id="nav">
+			<{foreach $nav_data as $key => $val}>
+                <li class="nav-li"<{if ($key+1) eq count($nav_data)}> style="border:none;" <{/if}>>
+                    <a class="" href="<{$val['url']}>"><{$val['title']}></a>
+                    <{if isset($val['two'])}>
+                    <div class="nav-child">
+                        <div class="nav-left"></div>
+                        <div class="nav-center">
+                            <ul>
+                           <{foreach $val['two'] as $value}>                     
+                            <li>
+                              <a href="<{$value['url']}>"><{$value['title']}></a>
+                                </li>
+                            <{/foreach}>
+                        
+                            </ul>
+                        </div>
+                        <div class="nav-right"></div>
+                    </div>
+                    <{/if}>
+                 <{/foreach}>
+            <div class="clear"></div>
+        </div>
+    </div>
