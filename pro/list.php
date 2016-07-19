@@ -126,12 +126,7 @@ $('.save-btn').click(function(){
 			conlose.log(res.ad)
 			var h =res.ad
 			
-			
-			
 		})
-
-
-
         //del删除
          $('.del-btn').click(function(){
             // console.log($(this).parent().parent().children().eq(0).html());
