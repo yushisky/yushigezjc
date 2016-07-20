@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title></title>
+<title>项目导航栏</title>
 <link href="css/lanrenzhijia.css" rel="stylesheet" />
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
