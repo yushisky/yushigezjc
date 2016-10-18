@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
+    <link rel="stylesheet" type="text/css" href="css/article_contact.css" />
+    <title>联系我们</title>
+</head>
+
+<body>
+    <{include file='header.html'}>
+    <div class="ad">
+        <img src="images/ad_02.png" alt="" />
+    </div>
+
+    <div class="content">
+        <div class="content-left">
+            <img src="images/rope.png" alt="" class="rope" />
+            <p class="title-en">COMPANY</p>
+            <h1 class="title-zh">关于我们</h1>
+            <ul class="child-menu">
+             <{foreach $ceo as $val}>
+                <li>
+                    <a href=""><{$val['cat_title']}></a>
+                </li>
+            <{/foreach}>
+                <!-- <li>
+                    <a href="">CEO 致词</a>
+                </li>
+                <li>
+                    <a href="">公司历史</a>
+                </li>
+                <li>
+                    <a href="">企业文化</a>
+                </li>
+                <li>
+                    <a href="">组织结构</a>
+                </li>
+                <li>
+                    <a href="">合作伙伴</a>
+                </li>
+                <li class="last">
+                    <a href="">联系我们</a>
+                </li> -->
+            </ul>
+        </div>
+
+        <div class="content-right">
+            <!-- 内容右边标题 开始 -->
+            <h1 class="title">
+                <span class="float-left">联系我们</span>
+                <span class="small-title">梦想的世界</span>
+                <span class="title-link">
+                    <a href="">主页 ></a>
+                    <a href="">关于我们 ></a>
+                    <a href="">联系我们</a>
+                </span>
+            </h1>
+
+            <!-- 文章内容 开始 -->
+            <div class="article">
+                <img src="images/map.png" alt="" class="picture" />
+                <h1 class="title">详细地址</h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="clear"></div>
+  <{include file='footer.html'}>
+    </div>
+</body>
+</html>
