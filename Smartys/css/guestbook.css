@@ -1,0 +1,47 @@
+form {
+    padding-top: 20px;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-top: 3px solid #1647A1;
+    width: 100%;
+}
+tr {
+    border-bottom: 1px solid #E5E5E5;
+}
+td.prop {
+    background: none repeat scroll 0 0 #F7F7F7;
+    text-align: center;
+    width: 102px;
+}
+td.prop label {
+    color: #000000;
+    font-weight: bold;
+    line-height: 29px;
+}
+input, textarea {
+    border: 1px solid #D6D6D6;
+    margin-left: 15px;
+    width: 95%;
+}
+.inpt_name, .inpt_pwd {
+    width: 88%;
+}
+textarea {
+    height: 187px;
+    margin: 20px 0 20px 15px;
+}
+tr.button {
+    border: medium none;
+    text-align: center;
+}
+.button input {
+    background: url("../images/msg_07.jpg") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: medium none;
+    color: #333333;
+    height: 27px;
+    margin-top: 11px;
+    text-indent: 10px;
+    width: 66px;
+}
