@@ -19,6 +19,7 @@
 <style>
 	.wrapper{background:#666666;}
 	.wrapper a{color:#666666;font-size:18px;font-weight:700;margin-right:30px;}
+	#time{font-weight:700;font-size:18px;}
 </style>
 </head>
 <body>
