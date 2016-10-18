@@ -8,15 +8,15 @@ error_reporting(E_ALL);
 // error_reporting(0);//将所有的错误都隐藏起来
 define('BOOT_PATH',dirname(dirname(__FILE__)));
 // p();die;
-define('WEB_PATH','http://www.Smartys.com');
+define('WEB_PATH','http://by1600015.pro.wdcase.com/Smartys');
 // print_r(BOOT_PATH);die;
 // include(BOOT_PATH.'/include/common.fun.php');
 // 引入公共函数库
 include(BOOT_PATH.'/include/common.fun.php');
 $url = 'localhost';
-$user = 'root';
-$password = '';
-$database = "wengdos";
+$user = 'by1600015';
+$password = 'pass123456';
+$database = "by1600015";
 $conn = conn($url,$user,$password,$database);
 //引入公共数据
 // require('common.data.php');
