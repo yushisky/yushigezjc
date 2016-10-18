@@ -18,9 +18,9 @@
 </script>
 </head>
 <body>
-<div class="big_box f-l">
+<div class="container-fluid f-l">
 	<!-- 代码部分begin -->
-<div class="wrapper"> 
+<div class="wrapper container"> 
 	<div class="head">
 	<div class="topNav f-l">
 		<div class="topNavList">
