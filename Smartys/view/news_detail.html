@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
+    <link rel="stylesheet" type="text/css" href="css/news_detail.css" />
+    <title>新闻中心详细页-文豆电子网</title>
+</head>
+
+<body>
+    <{include file='header.html'}>
+    <div class="ad">
+        <img src="images/ad_02.png" alt="" />
+    </div>
+
+    <div class="content">
+        <div class="content-left">
+            <img src="images/rope.png" alt="" class="rope" />
+            <p class="title-en">News Center</p>
+            <h1 class="title-zh">新闻中心</h1>
+            <ul class="child-menu">
+                <li>
+                    <a href="news_center.list.php?cid=1">公司新闻</a>
+                </li>
+                <li>
+                    <a href="news_center.list.php?cid=2">最新公告</a>
+                </li>
+                <li class="last">
+                    <a href="news_center.list.php?cid=4">行业咨询</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="content-right">
+            <!-- 内容右边标题 开始 -->
+            <h1 class="title">
+                <span class="float-left">新闻中心</span>
+                <span class="small-title">梦想的世界</span>
+                <span class="title-link">
+                    <a href="">主页 ></a>
+                    <a href="">新闻中心 ></a>
+                    <a href="">公司新闻</a>
+                </span>
+            </h1>
+
+            <!-- 文章内容 开始 -->
+            <div class="article">
+                <img src="images/banner.png" alt="" />
+                <table class="news_head">
+                    <thead>
+                        <tr>
+                            <td class="prop">
+                                <p>主题</p>
+                            </td>
+                            <td class="last atitle" colspan="3">
+                                <p><{$art_inof.title}></p>
+                            </td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="prop first">
+                                <p>作者</p>
+                            </td>
+                            <td class="author_name">
+                                <{$art_inof.title}>
+                            </td>
+                            <td class="prop">
+                                <p>日期</p>
+                            </td>
+                            <td>
+                                <p><{$art_inof.addtime|date_format:"%Y-%m-%d"}></p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="news_content">
+					<{$art_inof.content}>
+                </div>
+            </div>
+        </div>
+    </div>
+   <div class="clear"></div>
+
+    <div class="footer">
+     		<div class="float-left">
+		   <p class="footer_info">地址：广东省广州市海珠区新港西路231号3栋4层  联系人：乐 乐  移动电话：13588888888 固定电话：020-1234567 传 真：020-1234567</p>
+			<p class="copyright">Copyright @ 2014 文豆网络科技有限公司 版权所有  粤ICP备0000000号</p>
+		</div>
+		<select class="select-link">
+			<option value="">友情链接</option>
+			<option value="">友情链接</option>
+		</select>
+
+    </div>
+</body>
+</html>

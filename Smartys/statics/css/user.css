@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/**
+ * user.css
+ * @date    2015-12-03 08:17:38
+ */
+body{
+	font-family: "Microsoft Yahei";
+}
+
+.table-box{
+	width: 90%;
+	margin:0 auto;
+}
+.table-box table tr td {
+	height: 40px;
+	line-height: 40px;
+	width: 200px;
+	padding:0;
+	padding-left: 1em;
+}
+.table-box table tr td.width100px {
+	width: 100px;
+}
+.table-box table tr td.width60px {
+	width: 60px;
+}
+.table-box table tr td span{
+	padding-left: 0.4em;
+}
+.table-box table tr td input.input-control{
+	height: 34px;
+	line-height: 34px;
+	padding: 0;
+	padding-left: 0.4em;
+	margin:0;
+}
+
+
+input.save-btn{
+	border-radius: 4px;
+	border:1px solid transparent;
+}
+.my-button-state {
+    background: green;
+    color: white;
+}
+.my-button-state:hover {
+    background: lightgreen;
+    color: #000000;
+}
+.my-button-state:active {
+    background: darkgreen;
+    color: #ffff00;
+}
+.my-button-state.active {
+    background: red !important;
+    color: #ffff00 !important;
+}
