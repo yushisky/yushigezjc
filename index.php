@@ -17,7 +17,6 @@
 		}
 </script>
 <style>
-	.wrapper{background:#666666;}
 	.wrapper a{color:#666666;font-size:18px;font-weight:700;margin-right:30px;}
 	#time{font-weight:600;font-size:14px;color:#666666;}
 </style>
