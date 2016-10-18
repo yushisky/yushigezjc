@@ -1,0 +1,68 @@
+/*partners 页面样式*/
+.an_li ul li a:hover{border-top:1px solid #010101;line-height:8px;}
+.header_nav ul li i{color:#ccc;margin:0 20 0 10px;}
+.header_left{
+			 width:474px;
+			height:123px;
+			 margin-left:142px;
+			 float:left;
+			 }
+			 
+.header_right{	   
+		width:488px;
+		height:60px;	 
+		float:left;
+		margin-left:30px;
+		margin-top:27px;
+		background: #fbfbfb none repeat scroll 0 0;
+}
+.an_li a{	   
+		color:black;
+}	
+.header_right li{	
+		float:left;
+		margin-left:7px;
+		margin-top:12px;
+}	
+.deng_lu{
+		margin-left:305px;
+		margin-top:1px;
+}
+.deng_lu a{color:green;
+}
+.header_nav ul li a {
+    color: #010101;
+    padding-top: 10px;
+}
+/*banner 样式 start*/
+.banner{margin:0 auto;width:1150px;}
+/*banner 样式 end*/
+
+/*主体样式 start */
+.main{width:1150px;margin:0 auto;}
+/*当前位置 start*/
+.current{height:37px;line-height:37px;}
+.current p{margin-left:10px;color:#666;}
+.current p a{color:#666;font-size:14px;}
+/*当前位置 end*/
+
+/*联系详情 start*/
+.contact_us{overflow:hidden;}
+.contact_details{width:350px;padding:10px 0 0 50px;float:left;}
+.contact_details p,h4{color:#333;font-size:14px;line-height:25px;}
+.contact_details .box_15{height:15px;}
+.contact_details .box_25{height:25px;}
+.contact_details h4{font-weight:normal;}
+.contact_details h2{color:#1b1d18;font-size:24px;}
+
+.send_email{float:left;margin-left:80px;width:50%;}
+.send_email h2{font-size:80px;font-family:"Cordia New";color:#c6c6c6;font-weight:normal;height:70px;margin-left:5px;line-height:85px;}
+.link_partners{margin-top:30px;}
+.link_partners ul li{float:left;list-style:none;margin:0 3px 3px 0;}
+.link_partners ul li img{width:100px;height:50px;}
+
+.box_50{height:50px;}
+.map_address{width:1060px;margin:0 auto;}
+.box_30{height:30px;}
+/*联系详情 end*/
+/*主体样式 end 
