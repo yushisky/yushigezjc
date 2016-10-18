@@ -22,11 +22,11 @@
 	<div class="head">
 	<div class="topNav">
 		<div class="topNavList">
-			<a href="mo_he/index.php">漠河</a>
-			<a href="wengdo/index.php">文豆网络</a>
-			<a href="Smartys/index.php">Smartys文豆</a>
-			<a href="jinling/index.php/Home/Index">TP金陵</a>
-			<a href="nbesqcn/index.php">纳邦e社区</a>
+			<a href="mo_he/">漠河</a>
+			<a href="wengdo/">文豆网络</a>
+			<a href="Smartys/">Smartys文豆</a>
+			<a href="jinling/">TP金陵</a>
+			<a href="nbesqcn/">纳邦e社区</a>
 			<a href="http://www.xwyfxx.com/temp/index.php">团队项目 Templates</a>
 			<a href="##">关于我们</a>
 			<!--<a href="#">联系我们</a>-->
