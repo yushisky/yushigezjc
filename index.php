@@ -2,6 +2,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>项目导航栏</title>
+<link rel="stylesheet" href="css/H-ui.css">
+<link rel="stylesheet" href="css/H-ui.reset.css">
 <script language="javascript">
 		window.setInterval('showTime()',1000)
 		function showTime(){
@@ -16,11 +18,11 @@
 </script>
 </head>
 <body>
-<div class="big_box">
+<div class="big_box f-l">
 	<!-- 代码部分begin -->
 <div class="wrapper"> 
 	<div class="head">
-	<div class="topNav">
+	<div class="topNav f-l">
 		<div class="topNavList">
 			<a href="mo_he/">漠河</a>
 			<a href="wengdo/">文豆网络</a>
@@ -36,7 +38,7 @@
 			</div>
 		</div>
 	</div>
-	<div id="time"></div> 
+	<div id="time" class="f-l"></div> 
 </div>
 </div>
 </div>
