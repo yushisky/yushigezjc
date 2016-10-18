@@ -2,6 +2,18 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>项目导航栏</title>
+<script language="javascript">
+		window.setInterval('showTime()',1000)
+		function showTime(){
+			var enabled = 0; 
+			today = new Date();
+			var date; 
+			date =(today.getFullYear()) + "年" + (today.getMonth() + 1 )
+			+ "月" + today.getDate() + "日" + '&nbsp&nbsp&nbsp&nbsp&nbsp'+
+			today.getHours()+":"+today.getMinutes()+":"+today.getSeconds();
+			document.getElementById("time").innerHTML=date;
+		}
+</script>
 </head>
 <body>
 <div class="big_box">
@@ -23,6 +35,7 @@
 			</div>
 		</div>
 	</div>
+	<div id="time"></div> 
 </div>
 </div>
 </div>
