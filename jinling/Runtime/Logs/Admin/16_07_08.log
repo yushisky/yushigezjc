@@ -1,0 +1,1117 @@
+[ 2016-07-08T09:40:31+08:00 ] 127.0.0.1 /admin/index/file_up
+ERR: 1048:Le champ 'ads_pic1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `jl_ads` (`ads_pic`,`ads_pic1`) VALUES ('2016-07-08/577f048f4824f.png',NULL)
+
+[ 2016-07-08T09:40:42+08:00 ] 127.0.0.1 /admin/index/file_up
+ERR: 1048:Le champ 'ads_pic1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `jl_ads` (`ads_pic`,`ads_pic1`) VALUES ('2016-07-08/577f049a2f254.png',NULL)
+
+[ 2016-07-08T10:01:14+08:00 ] 127.0.0.1 /admin/index/file_up
+ERR: 1048:Le champ 'ads_pic1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `jl_ads` (`ads_pic`,`ads_pic1`) VALUES ('2016-07-08/577f096ae3511.jpg',NULL)
+
+[ 2016-07-08T10:02:13+08:00 ] 127.0.0.1 /admin/index/file_up
+ERR: 1048:Le champ 'ads_pic1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `jl_ads` (`ads_pic`,`ads_pic1`) VALUES ('2016-07-08/577f09a57a20e.jpg',NULL)
+
+[ 2016-07-08T10:02:46+08:00 ] 127.0.0.1 /admin/index/file_up
+ERR: 1048:Le champ 'ads_pic1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `jl_ads` (`ads_pic`,`ads_pic1`) VALUES ('2016-07-08/577f09c631c7c.jpg',NULL)
+
+[ 2016-07-08T10:02:48+08:00 ] 127.0.0.1 /admin/index/file_up
+ERR: 1048:Le champ 'ads_pic1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `jl_ads` (`ads_pic`,`ads_pic1`) VALUES ('2016-07-08/577f09c8a7b76.jpg',NULL)
+
+[ 2016-07-08T10:03:37+08:00 ] 127.0.0.1 /admin/index/file_up
+ERR: 1048:Le champ 'ads_pic1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `jl_ads` (`ads_pic`,`ads_pic1`) VALUES ('2016-07-08/577f09f9d3788.jpg',NULL)
+
+[ 2016-07-08T14:25:07+08:00 ] 127.0.0.1 /admin/index
+ERR: 模板不存在:./Application/Admin/View//index/header.html
+
+[ 2016-07-08T14:25:15+08:00 ] 127.0.0.1 /admin/index
+ERR: 模板不存在:./Application/Admin/View//index/header.html
+
+[ 2016-07-08T14:25:34+08:00 ] 127.0.0.1 /admin/index
+ERR: 模板不存在:./Application/Admin/View//index/header.html
+
+[ 2016-07-08T14:25:48+08:00 ] 127.0.0.1 /admin/css/glyphicons.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:25:48+08:00 ] 127.0.0.1 /admin/css/theme.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:25:48+08:00 ] 127.0.0.1 /admin/js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-08T14:25:48+08:00 ] 127.0.0.1 /admin/css/responsive.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:25:48+08:00 ] 127.0.0.1 /admin/css/bootstrap.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:25:48+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:30:11+08:00 ] 127.0.0.1 /admin/index
+ERR: 模板不存在:./Application/Admin/View/.html
+
+[ 2016-07-08T14:35:08+08:00 ] 127.0.0.1 /admin/index
+ERR: 模板不存在:./Application/Admin/View/.html
+
+[ 2016-07-08T14:48:59+08:00 ] 127.0.0.1 /admin/css/theme.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:48:59+08:00 ] 127.0.0.1 /admin/css/responsive.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:48:59+08:00 ] 127.0.0.1 /admin/js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-08T14:48:59+08:00 ] 127.0.0.1 /admin/css/bootstrap.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:48:59+08:00 ] 127.0.0.1 /admin/css/glyphicons.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:48:59+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:49:16+08:00 ] 127.0.0.1 /admin/log/
+ERR: 无法加载控制器:Log
+
+[ 2016-07-08T14:49:34+08:00 ] 127.0.0.1 /admin/css/bootstrap.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:49:34+08:00 ] 127.0.0.1 /admin/css/responsive.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:49:34+08:00 ] 127.0.0.1 /admin/css/glyphicons.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:49:34+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:49:34+08:00 ] 127.0.0.1 /admin/css/theme.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:49:34+08:00 ] 127.0.0.1 /admin/js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-08T14:51:03+08:00 ] 127.0.0.1 /admin/css/bootstrap.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:51:03+08:00 ] 127.0.0.1 /admin/css/glyphicons.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:51:03+08:00 ] 127.0.0.1 /admin/css/responsive.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:51:03+08:00 ] 127.0.0.1 /admin/css/theme.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:51:03+08:00 ] 127.0.0.1 /admin/js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-08T14:51:03+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:52:37+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:53:22+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:54:19+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:55:21+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:57:20+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:57:51+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:57:57+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:57:59+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:58:40+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:59:01+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:59:36+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T14:59:48+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:00:13+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:00:14+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:00:15+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:00:16+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:00:17+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:00:18+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:00:19+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:00:21+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:00:59+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:01:01+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:01:01+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:01:02+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:01:26+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:03:20+08:00 ] 127.0.0.1 /admin/css/bootstrap.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:03:20+08:00 ] 127.0.0.1 /admin/css/pages.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:03:20+08:00 ] 127.0.0.1 /admin/css/plugins.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:03:20+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:03:20+08:00 ] 127.0.0.1 /admin/css/theme.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:03:20+08:00 ] 127.0.0.1 /admin/css/glyphicons.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:03:20+08:00 ] 127.0.0.1 /admin/css/responsive.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:03:20+08:00 ] 127.0.0.1 /admin/js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-07-08T15:04:44+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:04:46+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:04:49+08:00 ] 127.0.0.1 /admin/news_list.html
+ERR: 无法加载控制器:News_list
+
+[ 2016-07-08T15:04:52+08:00 ] 127.0.0.1 /admin/news_list.html
+ERR: 无法加载控制器:News_list
+
+[ 2016-07-08T15:14:15+08:00 ] 127.0.0.1 /admin/index.html
+ERR: Think\Model:get_one方法不存在！
+
+[ 2016-07-08T15:15:00+08:00 ] 127.0.0.1 /admin/index.html
+ERR: Think\Model:get_one方法不存在！
+
+[ 2016-07-08T15:18:16+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:18:55+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:18:59+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:19:00+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:19:02+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:30:07+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:30:58+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:31:20+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:31:22+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:31:22+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:31:22+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:32:04+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:32:18+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:32:25+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:40:22+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:41:03+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:41:05+08:00 ] 127.0.0.1 /index.php/admin/index/artcat.html
+ERR: 模板不存在:./Application/Admin/View/index/artcat.html
+
+[ 2016-07-08T15:41:25+08:00 ] 127.0.0.1 /index.php/admin/index/artcat.html
+ERR: 模板不存在:./Application/Admin/View/index/artcat.html
+
+[ 2016-07-08T15:41:27+08:00 ] 127.0.0.1 /index.php/admin/index/artcat.html
+ERR: 模板不存在:./Application/Admin/View/index/artcat.html
+
+[ 2016-07-08T15:41:29+08:00 ] 127.0.0.1 /index.php/admin/index/artcat.html
+ERR: 模板不存在:./Application/Admin/View/index/artcat.html
+
+[ 2016-07-08T15:41:49+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:42:18+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:43:45+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:44:36+08:00 ] 127.0.0.1 /admin/css/custom.css
+ERR: 无法加载控制器:Css
+
+[ 2016-07-08T15:44:46+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:45:19+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:45:52+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:09+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:29+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:29+08:00 ] 127.0.0.1 /index.php/admin/index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:29+08:00 ] 127.0.0.1 /index.php/admin/index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:29+08:00 ] 127.0.0.1 /index.php/admin/index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:29+08:00 ] 127.0.0.1 /index.php/admin/index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T15:47:29+08:00 ] 127.0.0.1 /index.php/admin/index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:29+08:00 ] 127.0.0.1 /index.php/admin/index/css/boxed.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:30+08:00 ] 127.0.0.1 /index.php/admin/index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:30+08:00 ] 127.0.0.1 /index.php/admin/index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:30+08:00 ] 127.0.0.1 /index.php/admin/index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:30+08:00 ] 127.0.0.1 /index.php/admin/index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:30+08:00 ] 127.0.0.1 /index.php/admin/index/css/boxed.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:30+08:00 ] 127.0.0.1 /index.php/admin/index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:30+08:00 ] 127.0.0.1 /index.php/admin/index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:30+08:00 ] 127.0.0.1 /index.php/admin/index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T15:47:34+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:36+08:00 ] 127.0.0.1 /index.php/admin/index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:36+08:00 ] 127.0.0.1 /index.php/admin/index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:36+08:00 ] 127.0.0.1 /index.php/admin/index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:36+08:00 ] 127.0.0.1 /index.php/admin/index/css/boxed.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:36+08:00 ] 127.0.0.1 /index.php/admin/index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T15:47:36+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:36+08:00 ] 127.0.0.1 /index.php/admin/index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:36+08:00 ] 127.0.0.1 /index.php/admin/index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:36+08:00 ] 127.0.0.1 /index.php/admin/index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:37+08:00 ] 127.0.0.1 /index.php/admin/index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:37+08:00 ] 127.0.0.1 /index.php/admin/index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:37+08:00 ] 127.0.0.1 /index.php/admin/index/css/boxed.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:37+08:00 ] 127.0.0.1 /index.php/admin/index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:37+08:00 ] 127.0.0.1 /index.php/admin/index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T15:47:37+08:00 ] 127.0.0.1 /index.php/admin/index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:47:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:49:25+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:49:55+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:52:05+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:52:36+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:54:51+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:55:25+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:56:53+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T15:57:29+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/boxed.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/boxed.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:04:19+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:04:19+08:00 ] 127.0.0.1 /index.php/admin/index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:04:19+08:00 ] 127.0.0.1 /index.php/admin/index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:04:19+08:00 ] 127.0.0.1 /index.php/admin/index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:04:19+08:00 ] 127.0.0.1 /index.php/admin/index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:04:19+08:00 ] 127.0.0.1 /index.php/admin/index/css/boxed.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:04:19+08:00 ] 127.0.0.1 /index.php/admin/index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:04:19+08:00 ] 127.0.0.1 /index.php/admin/index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:04:19+08:00 ] 127.0.0.1 /index.php/admin/index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:04:19+08:00 ] 127.0.0.1 /index.php/admin/index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:04:19+08:00 ] 127.0.0.1 /index.php/admin/index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:04:19+08:00 ] 127.0.0.1 /index.php/admin/index/css/boxed.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:04:19+08:00 ] 127.0.0.1 /index.php/admin/index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:04:22+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:05:09+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:05:13+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:05:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:06:42+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:06:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:07:16+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:19:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:19:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:19:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/date-time/bootstrap-datepicker.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:19:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/summernote.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:19:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.unpre.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:19:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/summernote.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:19:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:19:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/summernote.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:19:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/summernote.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:19:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/date-time/bootstrap-datepicker.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:19:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.unpre.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:21:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:21:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:21:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:43:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:43:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:43:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:43:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:43:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:43:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:45:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:45:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:45:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:45:48+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:45:48+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:45:48+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:47:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:47:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/pages.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/pages.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:47:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:48:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:48:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:48:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:48:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:48:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:48:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:48:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:48:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:48:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:48:45+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:48:45+08:00 ] 127.0.0.1 /index.php/admin/index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:48:45+08:00 ] 127.0.0.1 /index.php/admin/index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:49:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:49:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:49:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:49:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:49:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:49:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:49:20+08:00 ] 127.0.0.1 /index.php/admin/index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:49:20+08:00 ] 127.0.0.1 /index.php/admin/index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:49:20+08:00 ] 127.0.0.1 /index.php/admin/index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:49:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:49:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:49:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:49:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:49:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:49:33+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:49:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:49:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:49:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:53:16+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:16+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:53:16+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:53:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:53:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:53:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:53:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:53:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:53:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/pages.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/pages.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:55:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:55:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:55:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:55:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:55:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:55:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:55:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:55:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:55:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/pages.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/pages.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/pages.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/pages.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:06+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:06+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/pages.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/plugins.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/responsive.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/glyphicons.min.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/theme.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/pages.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:58:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:58:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:59:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:59:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:59:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:59:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:59:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:59:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:59:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:59:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:59:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:59:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:59:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:59:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:59:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/css/custom.css
+ERR: 非法操作:css
+
+[ 2016-07-08T16:59:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-07-08T16:59:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.min.js
+ERR: 非法操作:js
+
