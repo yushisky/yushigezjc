@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<script language="javascript">
+		window.setInterval('showTime()',1000)
+		function showTime(){
+			var enabled = 0; 
+			today = new Date();
+			var date; 
+			date =(today.getFullYear()) + "年" + (today.getMonth() + 1 )
+			+ "月" + today.getDate() + "日" + '&nbsp&nbsp&nbsp&nbsp&nbsp'+
+			today.getHours()+":"+today.getMinutes()+":"+today.getSeconds();
+			document.getElementById("time").innerHTML=date;
+		}
+</script>
+
+</head>
+<body>
+	<div id="time"></div> 
+	
+</body>
+</html>
