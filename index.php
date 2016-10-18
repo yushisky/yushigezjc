@@ -17,7 +17,7 @@
 		}
 </script>
 <style>
-	.wrapper{background:#e5e5e5;}
+	.wrapper{background:#666666;}
 	.wrapper a{color:#fff;font-size:18px;font-weight:700;}
 </style>
 </head>
