@@ -29,7 +29,7 @@
 	<div class="head mt-30">
 	<div class="topNav f-l">
 		<div class="topNavList">
-			<a href="mo_he/">漠河</a>
+			<a href="mo_he">漠河</a>
 			<a href="wengdo/">文豆网络</a>
 			<a href="Smartys/index.php">Smartys文豆</a>
 			<a href="jinling/">TP金陵</a>
