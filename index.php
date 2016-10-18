@@ -16,6 +16,9 @@
 			document.getElementById("time").innerHTML=date;
 		}
 </script>
+<style>
+	
+</style>
 </head>
 <body>
 <div class="container-fluid f-l">
@@ -38,7 +41,7 @@
 			</div>
 		</div>
 	</div>
-	<div id="time" class="f-l"></div> 
+	<div id="time" class="f-r"></div> 
 </div>
 </div>
 </div>
