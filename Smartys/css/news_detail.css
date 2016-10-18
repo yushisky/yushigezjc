@@ -1,0 +1,39 @@
+ .news_list , .news_head { 
+    margin-top: 20px;
+    border-top: 3px solid #1647a1;
+    width: 100%;
+    border-collapse: collapse;
+}
+table td { text-align: center; height: 28px; }
+thead tr { border-top: 1px solid #e5e5e5; border-bottom: 1px solid #8aa3d0; }
+thead p,
+td.prop p {
+    border-right: 1px solid #8aa3d0;
+    color: black;
+    font-family: "微软雅黑";
+    text-align: center;
+    text-align: 0px;
+}
+tr { border-bottom: 1px solid #e5e5e5; }
+/* 对齐方式*/
+.news_list .atitle , 
+.news_head .atitle p ,
+.news_head .author_name a { 
+    text-align: left;
+    text-indent: 15px;
+}
+/* 公共加粗部分*/
+.news_list thead p, .news_head td.prop p { font-weight: bold; } 
+
+table .last p { border-right: none; }
+.news_head td.prop { width: 71px; } 
+.page_navi li.current a { color: black; font-weight: bold; }
+/* 各列的样式*/
+.news_list .id { width: 50px; }
+.news_list .author { width: 109px; }
+.news_list .timestamp { width: 118px; }
+.news_list .click { width: 70px; }
+.news_head td.author_name { width: 290px; }
+
+.news_content { padding: 24px; }
+.news_content p { padding-bottom: 25px; line-height: 18px; }
