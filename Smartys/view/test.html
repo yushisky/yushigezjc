@@ -1,0 +1,52 @@
+<{*
+<{if $key eq 5}>
+<img src="images/2015.gif">
+<{elseif $key eq 3}>
+<img src ="images/a.jpg">
+<{else}>
+<img src ="images/2015.gif">
+<{/if}>
+
+for($i = 1;$i<4;$i++){
+	
+
+}
+<{$end = 1}>
+<{for $i=6 to $end step 1}>
+	<{$i}>
+<{forelse}>
+没有执行
+<{/for}>
+
+<{$smarty.get.one}>
+<br/>
+<{$smarty.get.aaaa}>
+
+<{$smarty.server}>
+
+<{date('Y-m-d',time())}>
+*}>
+<{$a='<b>使用cat变量调节器来实现字符串的拼接'}>
+<{$a|date_format}>
+
+<{literal}>
+<script>
+    function aaa(){
+        alert('谈一谈！'); //这里不会报错
+    }
+    window.setTimeout(function(){aaa();},3000);
+</script>
+<{/literal}>
+  
+
+
+
+
+
+
+
+
+
+
+
+
