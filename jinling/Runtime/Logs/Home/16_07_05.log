@@ -1,0 +1,312 @@
+[ 2016-07-05T09:06:45+08:00 ] 127.0.0.1 /home/Index/indexone
+ERR: Think\Model:get_all方法不存在！
+
+[ 2016-07-05T09:07:13+08:00 ] 127.0.0.1 /home/Index/aa
+ERR: Think\Model:get_one方法不存在！
+
+[ 2016-07-05T09:07:38+08:00 ] 127.0.0.1 /home/Index/aa
+ERR: Think\Model:get_one方法不存在！
+
+[ 2016-07-05T09:09:22+08:00 ] 127.0.0.1 /home/Index/aa
+ERR: Think\Model:get_one方法不存在！
+
+[ 2016-07-05T09:09:58+08:00 ] 127.0.0.1 /home/Index/aa
+ERR: Think\Model:get_one方法不存在！
+
+[ 2016-07-05T09:09:58+08:00 ] 127.0.0.1 /home/Index/aa
+ERR: Think\Model:get_one方法不存在！
+
+[ 2016-07-05T09:09:58+08:00 ] 127.0.0.1 /home/Index/aa
+ERR: Think\Model:get_one方法不存在！
+
+[ 2016-07-05T09:10:36+08:00 ] 127.0.0.1 /home/Index/indexone
+ERR: Think\Model:get_all方法不存在！
+
+[ 2016-07-05T09:52:41+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:53:23+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:55:22+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:55:23+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:55:23+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:55:23+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:55:23+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:55:23+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:55:23+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:55:24+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:55:24+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:55:24+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:55:24+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:56:18+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:56:18+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:56:19+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:57:28+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:58:16+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:58:17+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:58:17+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T09:58:17+08:00 ] 127.0.0.1 /home/Index/indexoe
+ERR: 非法操作:indexoe
+
+[ 2016-07-05T10:01:52+08:00 ] 127.0.0.1 /home/Indexone
+ERR: 无法加载控制器:Indexone
+
+[ 2016-07-05T10:04:59+08:00 ] 127.0.0.1 /home/Index
+ERR: 1064:Erreur de syntaxe près de ') AND (  ) AND (  ) AND (  ) AND (  ) ORDER BY 5' à la ligne 1
+ [ SQL语句 ] : SELECT * FROM `jl_article` WHERE (  ) AND (  ) AND (  ) AND (  ) AND (  ) ORDER BY 5 
+
+[ 2016-07-05T11:30:25+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/48.html
+ERR: 模板不存在:./Application/Home/View//index/header.html
+
+[ 2016-07-05T11:43:25+08:00 ] 127.0.0.1 /index.php/home/index/js/jquery.pack.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:43:25+08:00 ] 127.0.0.1 /index.php/home/index/style/style.css
+ERR: 非法操作:style
+
+[ 2016-07-05T11:43:25+08:00 ] 127.0.0.1 /index.php/home/index/js/js.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:43:25+08:00 ] 127.0.0.1 /index.php/home/index/js/jquery.SuperSlide.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:43:25+08:00 ] 127.0.0.1 /index.php/home/index/js/jQuery.blockUI.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:43:25+08:00 ] 127.0.0.1 /index.php/home/index/js/jquery.SuperSlide.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:43:26+08:00 ] 127.0.0.1 /index.php/home/index/js/js.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:43:30+08:00 ] 127.0.0.1 /index.php/home/index/js/js.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:43:30+08:00 ] 127.0.0.1 /index.php/home/index/style/style.css
+ERR: 非法操作:style
+
+[ 2016-07-05T11:43:30+08:00 ] 127.0.0.1 /index.php/home/index/js/jQuery.blockUI.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:43:30+08:00 ] 127.0.0.1 /index.php/home/index/js/jquery.pack.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:43:30+08:00 ] 127.0.0.1 /index.php/home/index/js/jquery.SuperSlide.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:43:30+08:00 ] 127.0.0.1 /index.php/home/index/js/jQuery.blockUI.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:43:30+08:00 ] 127.0.0.1 /index.php/home/index/js/jquery.SuperSlide.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:43:30+08:00 ] 127.0.0.1 /index.php/home/index/js/js.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:45:32+08:00 ] 127.0.0.1 /index.php/home/index/style/style.css
+ERR: 非法操作:style
+
+[ 2016-07-05T11:45:32+08:00 ] 127.0.0.1 /index.php/home/index/js/js.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:45:32+08:00 ] 127.0.0.1 /index.php/home/index/js/jquery.pack.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:45:32+08:00 ] 127.0.0.1 /index.php/home/index/js/jQuery.blockUI.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:45:32+08:00 ] 127.0.0.1 /index.php/home/index/js/jquery.SuperSlide.js
+ERR: 非法操作:js
+
+[ 2016-07-05T11:45:32+08:00 ] 127.0.0.1 /index.php/home/index/js/js.js
+ERR: 非法操作:js
+
+[ 2016-07-05T12:04:33+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'ji_article.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN ji_article.id on ji_article.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:06:30+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'ji_article.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN ji_article.id on ji_article.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:08:20+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'ji_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN ji_artcat.id on ji_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:08:20+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'ji_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN ji_artcat.id on ji_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:08:21+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'ji_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN ji_artcat.id on ji_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:08:21+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'ji_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN ji_artcat.id on ji_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:08:21+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'ji_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN ji_artcat.id on ji_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:08:21+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'ji_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN ji_artcat.id on ji_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:08:21+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'ji_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN ji_artcat.id on ji_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:08:21+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'ji_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN ji_artcat.id on ji_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:08:22+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'ji_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN ji_artcat.id on ji_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:09:34+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:09:34+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:09:34+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:09:35+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:09:35+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:09:35+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:09:35+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:09:35+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:09:35+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:09:36+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( ji_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:10:57+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:10:58+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:10:58+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:10:58+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:10:58+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:10:59+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:10:59+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:10:59+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:12:49+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1146:La table 'jl_artcat.id' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat.id on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:13:38+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1054:Champ 'jl_article.id42' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:13:39+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1054:Champ 'jl_article.id42' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:13:39+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1054:Champ 'jl_article.id42' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:13:39+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1054:Champ 'jl_article.id42' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:13:40+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1054:Champ 'jl_article.id42' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:13:40+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1054:Champ 'jl_article.id42' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:13:40+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1054:Champ 'jl_article.id42' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
+[ 2016-07-05T12:13:40+08:00 ] 127.0.0.1 /index.php/home/index/detail/art_id/42.html
+ERR: 1054:Champ 'jl_article.id42' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `jl_article` INNER JOIN jl_artcat on jl_artcat.id = article_aid  WHERE ( jl_article.id42 ) LIMIT 1  
+
