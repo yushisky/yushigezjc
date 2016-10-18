@@ -24,7 +24,7 @@
 		<div class="topNavList">
 			<a href="mo_he/">漠河</a>
 			<a href="wengdo/">文豆网络</a>
-			<a href="Smartys/">Smartys文豆</a>
+			<a href="Smartys/index.php">Smartys文豆</a>
 			<a href="jinling/">TP金陵</a>
 			<a href="nbesqcn/">纳邦e社区</a>
 			<a href="http://www.xwyfxx.com/temp/index.php">团队项目 Templates</a>
