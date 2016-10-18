@@ -1,113 +1,53 @@
-<!doctype html>
-<html lang="en">
+<html>
 <head>
-<meta charset="gb2312">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="A simple jQuery page preview plugin.">
-<meta name="keywords" content="HTML, CSS, JS, JavaScript, jQuery plugin, page preview, front-end, frontend, web development">
-<meta name="author" content="Fengyuan Chen">
-<title>index</title>
-
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/previewer.css" rel="stylesheet">
-<link href="css/main.css" rel="stylesheet">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>é¡¹ç›®å¯¼èˆªæ </title>
+<link rel="stylesheet" href="css/H-ui.css">
+<link rel="stylesheet" href="css/H-ui.reset.css">
 <script language="javascript">
 		window.setInterval('showTime()',1000)
 		function showTime(){
 			var enabled = 0; 
 			today = new Date();
 			var date; 
-			date =(today.getFullYear()) + "Äê" + (today.getMonth() + 1 )
-			+ "ÔÂ" + today.getDate() + "ÈÕ" + '&nbsp&nbsp&nbsp&nbsp&nbsp'+
+			date =(today.getFullYear()) + "å¹´" + (today.getMonth() + 1 )
+			+ "æœˆ" + today.getDate() + "æ—¥" + '&nbsp&nbsp&nbsp&nbsp&nbsp'+
 			today.getHours()+":"+today.getMinutes()+":"+today.getSeconds();
 			document.getElementById("time").innerHTML=date;
 		}
 </script>
+<style>
+	.wrapper{background:#666666;}
+	.wrapper a{color:#666666;font-size:18px;font-weight:700;margin-right:30px;}
+	#time{font-weight:600;font-size:14px;color:#666666;}
+</style>
 </head>
 <body>
-<!-- header -->
-<header class="navbar navbar-static-top docs-header" id="top">
-<div class="container">
-  <div class="navbar-header">
-	<button class="navbar-toggle" data-target="#navbar-collapse-1" data-toggle="collapse" type="button">
-	  <span class="sr-only">Toggle navigation</span>
-	  <span class="icon-bar"></span>
-	  <span class="icon-bar"></span>
-	  <span class="icon-bar"></span>
-	</button>
-	<a class="navbar-brand" href="javascript:void(0);">Previewer</a>
-  </div>
-  <nav class="collapse navbar-collapse" id="navbar-collapse-1" role="navigation">
-	<ul class="nav navbar-nav navbar-right">
-	  <li><a href="mo_he" target="_top">Ä®ºÓ</a></li>
-	  <li><a href="wengdo" target="_top">ÎÄ¶¹ÍøÂç</a></li>
-	  <li><a href="Smartys/index.php" target="_top">SmartysÎÄ¶¹</a></li>
-	  <li><a href="jinling" target="_top">TP½ğÁê</a></li>
-	  <li><a href="nbesqcn" target="_top">ÄÉ°îeÉçÇø</a></li>
-	  <li><a href="http://www.xwyfxx.com/temp/index.php" target="_top">ÍÅ¶ÓÏîÄ¿ Templates</a></li>
-	  <li><a href="" target="_top">¹ØÓÚÎÒÃÇ</a></li>
-	</ul>
-  </nav>
+<div class="container-fluid f-l">
+	<!-- ä»£ç éƒ¨åˆ†begin -->
+<div class="wrapper container"> 
+	<div class="head mt-30">
+	<div class="topNav f-l">
+		<div class="topNavList">
+			<a href="mo_he">æ¼ æ²³</a>
+			<a href="wengdo/">æ–‡è±†ç½‘ç»œ</a>
+			<a href="Smartys/index.php">Smartysæ–‡è±†</a>
+			<a href="jinling/">TPé‡‘é™µ</a>
+			<a href="nbesqcn/">çº³é‚¦eç¤¾åŒº</a>
+			<a href="http://www.xwyfxx.com/temp/index.php">å›¢é˜Ÿé¡¹ç›® Templates</a>
+			<a href="##">å…³äºæˆ‘ä»¬</a>
+			<!--<a href="#">è”ç³»æˆ‘ä»¬</a>-->
+			<div class="topNavSub">
+				<div class="activeLeft"></div>
+				<div class="activeRight"></div>
+			</div>
+		</div>
+	</div>
+	<div id="time" class="f-r"></div> 
 </div>
-</header>
-<!-- Jumbotron -->
-<div class="jumbotron docs-jumbotron">
-<div class="container">
-  <h1><div id="time" class="f-r"></div><small class="version">666666</small></h1>
-  <p class="lead"></p>
 </div>
 </div>
 
-<!-- Content -->
-<div class="container mb-50">
-<h2 class="page-header">index</h2>
-<div class="row">
-  <div class="col-sm-6 col-md-4 col-lg-3">
-	<div class="thumbnail">
-	  <img src="img/starry.jpg" alt="Starry">
-	  <div class="caption">
-		<h3>index</h3>
-		<p>Preview on extra small screen width as phone.</p>
-		<p><a href="?previewer" class="btn btn-primary" target="_top" role="button"><a href="MAP.html">Launch</a></a></p>
-	  </div>
-	</div>
-  </div>
-  <div class="col-sm-6 col-md-4 col-lg-3">
-	<div class="thumbnail">
-	  <img src="img/starry-2.jpg" alt="Starry 2">
-	  <div class="caption">
-		<h3>index</h3>
-		<p>Preview on small screen width as tablet.</p>
-		<p><a href="?previewer=tablet" class="btn btn-primary" target="_top" role="button"><a href="MAP.html">Launch</a></a></p>
-	  </div>
-	</div>
-  </div>
-  <div class="col-sm-6 col-md-4 col-lg-3">
-	<div class="thumbnail">
-	  <img src="img/starry-3.jpg" alt="Starry 3">
-	  <div class="caption">
-		<h3>index</h3>
-		<p>Preview on middle screen width as laptop.</p>
-		<p><a href="?previewer=laptop" class="btn btn-primary" target="_top" role="button"><a href="MAP.html">Launch</a></a></p>
-	  </div>
-	</div>
-  </div>
-  <div class="col-sm-6 col-md-4 col-lg-3">
-	<div class="thumbnail">
-	  <img src="img/starry-4.jpg" alt="Starry 4">
-	  <div class="caption">
-		<h3>index</h3>
-		<p>Preview on large screen width as desktop.</p>
-		<p><a href="?previewer=desktop" class="btn btn-primary" target="_top" role="button"><a href="MAP.html">Launch</a></a></p>
-	  </div>
-	</div>
-  </div>
-</div>
-</div>
-<!-- Scripts -->
-<script src="js/jquery-1.11.3.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/previewer.js"></script>
 </body>
+
 </html>
