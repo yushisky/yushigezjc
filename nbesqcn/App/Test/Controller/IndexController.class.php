@@ -15,8 +15,8 @@ class IndexController extends BaseController {
                         }
                     }
                 }
-       print_r($pihotl_ionf);
-        print_r($hotl_ionf);
+       // print_r($pihotl_ionf);
+        // print_r($hotl_ionf);
         $this->assign(array(
             // 美食
             'pihotl_ionf'=>$pihotl_ionf['data'],
