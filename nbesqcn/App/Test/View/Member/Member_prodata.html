@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<title>个人资料</title>
+	<include  file="Public:Member_header"/>
+	<link rel="stylesheet" type="text/css" href="Test_TMPL/js/icheck/icheck.css" />
+	<div class="nav_conter f-l  mt-15">
+		<div class="nav-1">
+			<b><span>我的账户</span></b>
+			<ul class="nav-0">
+				<li  class="bgnav-box"><a href="{:U('Member/index')}">&bull;&nbsp;账户设置</a><span class="f-r mr-10">&gt;</span></li>
+				<li ><a href="{:U('ticket')}">&bull;&nbsp;消费券</a></li>
+				<li ><a href="{:U('balance')}">&bull;&nbsp;我的余额</a></li>
+				<li ><a href="{:U('conter')}">&bull;&nbsp;安全中心</a></li>
+				<li ><a href="{:U('recharge')}">&bull;&nbsp;充值中心</a></li>
+			</ul>
+			<b><span>我的评价</span></b>
+			<ul class="nav-0">
+				<li class="app_title2"><a href="{:U('stayapp')}">&bull;&nbsp;待评价</a><span>6</span></li>
+				<li><a href="{:U('appraise')}">&bull;&nbsp;已评价</a></li>
+			</ul>
+		</div>
+	</div>
+		<ul class="mag_top_title f-l ml-50 mt-30">
+			<li><a href="{:U('Member/index')}">基本信息</a></li>
+			<li><a href="{:U('conter')}">安全中心</a></li>
+			<li class="top_title radius f-l"><span>个人资料</span></li>
+		<!-- 	<li><a href="#">邮件订阅</a></li> -->
+		</ul>
+		<div class="mag_content f-l mt-20 f-r  col-xs-9 col-md-9 col-lg-9 mr-30">
+			<ul class="file_img">
+				<p><img src="Test_TMPL/images/pro_r1_c1.jpg" alt=""></p>
+				<p><span class="btn-upload">
+				  <a href="javascript:void(0);" class="btn btn-primary radius">上传头像</a>
+				  <input type="file" multiple name="file_0" class="input-file">
+				</span></p>
+				<p>支持JPG JPEG GIF PNG BMP 且不小于5M</p>
+				<li></li>
+			</ul>
+			<ul class="formControls skin-minimal sex_class col-xs-8 col-md-8 col-lg-8">
+				<li>性别：</li>
+				<li class="radio-box">
+					<input type="radio" id="sex-1" name="sex" datatype="*" nullmsg="请选择性别！">
+					<label for="sex-1">男</label>
+				</li>
+				<li class="radio-box">
+					<input type="radio" id="sex-2" name="sex">
+					<label for="sex-2">女</label>
+				</li>
+				<li class="radio-box">
+					<input type="radio" id="sex-3" name="sex">
+					<label for="sex-3">保密</label>
+				</li>
+			</ul>
+			<ul class="sex_class col-xs-8 col-md-8 col-lg-8">
+				<li>生日：</li>
+				<li>
+					<form name="reg_testdate">
+						<select name="YYYY" onChange="YYYYDD(this.value)">
+							<option value="">请选择 年</option>
+						</select>
+						<select name="MM" onChange="MMDD(this.value)">
+							<option value="">选择 月</option>
+						</select>
+						<select name="DD">
+							<option value="">选择 日</option>
+						</select>
+					</form></li>
+			</ul>
+			<ul class="formControls skin-minimal like_class col-xs-8 col-md-8 col-lg-8" >
+				<li>身份：</li>
+				<li class="check-box">
+					<input type="checkbox" class="ml-10" ><label for="checkbox-5" >学生</label>
+				</li>
+				<li class="check-box">
+					<input type="checkbox" class="ml-10"><label for="checkbox-5" >在职</label>
+				</li>
+				<li class="check-box">
+					<input type="checkbox" class="ml-10"><label for="checkbox-5" >自由职业</label>
+				</li>
+				<li class="check-box">
+					<input type="checkbox" class="ml-10"><label for="checkbox-5" >其他</label>
+				</li>
+			</ul>
+			<ul class="formControls skin-minimal like_class col-xs-8 col-md-8 col-lg-8">
+				<li>兴趣：</li>
+				<li class="check-box">
+					<input type="checkbox" class="ml-10"><label for="checkbox-5" >美食</label>
+				</li>
+				<li class="check-box">
+					<input type="checkbox" class="ml-10"><label for="checkbox-5" >电影</label>
+				</li>
+				<li class="check-box">
+					<input type="checkbox" class="ml-10"><label for="checkbox-5" >酒店</label>
+				</li>
+				<li class="check-box">
+					<input type="checkbox" class="ml-10"><label for="checkbox-5" >丽人</label>
+				</li>
+				<li class="check-box">
+					<input type="checkbox" class="ml-10"><label for="checkbox-5" >休闲娱乐</label>
+				</li>
+				<p>选择您的兴趣使您获得个性化得推荐</p>
+			</ul>
+				<p class="mt-30 f-l ml-30 mb-50"><input class="btn buos radius" type="button" value="保存"></p>
+		</div>
+	</div>
+</div>
+</body>
+<script type="text/javascript" src="Test_TMPL/js/icheck/jquery.icheck.min.js"></script>
+<script type="text/javascript">
+//var navigation = responsiveNav("Hui-navbar", {customToggle: ".nav-toggle"});
+$(function(){
+	$('.skin-minimal input').iCheck({
+		checkboxClass: 'icheckbox-blue',
+		radioClass: 'iradio-blue',
+		increaseArea: '20%'
+	});
+});
+// ===================
+function YYYYMMDDstart(){   
+	MonHead = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];   
+	
+	//先给年下拉框赋内容   
+	var y  = new Date().getFullYear();  
+	for (var i = (y-30); i < (y+30); i++) //以今年为准，前30年，后30年   
+		   document.reg_testdate.YYYY.options.add(new Option(" "+ i +" 年", i));   
+	
+	//赋月份的下拉框   
+	for (var i = 1; i < 13; i++)   
+		   document.reg_testdate.MM.options.add(new Option(" " + i + " 月", i));   
+	
+	document.reg_testdate.YYYY.value = y;   
+	document.reg_testdate.MM.value = new Date().getMonth() + 1;   
+	var n = MonHead[new Date().getMonth()];   
+	if (new Date().getMonth() ==1 && IsPinYear(YYYYvalue)) n++;   
+		writeDay(n); //赋日期下拉框Author:meizz   
+	document.reg_testdate.DD.value = new Date().getDate();   
+}   
+if(document.attachEvent)   
+	window.attachEvent("onload", YYYYMMDDstart);   
+else   
+window.addEventListener('load', YYYYMMDDstart, false);   
+function YYYYDD(str) //年发生变化时日期发生变化(主要是判断闰平年)   
+{   
+	var MMvalue = document.reg_testdate.MM.options[document.reg_testdate.MM.selectedIndex].value;   
+	if (MMvalue == ""){ var e = document.reg_testdate.DD; optionsClear(e); return;}   
+	var n = MonHead[MMvalue - 1];   
+	if (MMvalue ==2 && IsPinYear(str)) n++;   
+	writeDay(n)   
+}   
+function MMDD(str)   //月发生变化时日期联动   
+{   
+	var YYYYvalue = document.reg_testdate.YYYY.options[document.reg_testdate.YYYY.selectedIndex].value;   
+	if (YYYYvalue == ""){ var e = document.reg_testdate.DD; optionsClear(e); return;}   
+	var n = MonHead[str - 1];   
+	if (str ==2 && IsPinYear(YYYYvalue)) n++;   
+	writeDay(n)   
+}   
+function writeDay(n)   //据条件写日期的下拉框   
+{   
+	var e = document.reg_testdate.DD; optionsClear(e);   
+	for (var i=1; i<(n+1); i++)   
+	e.options.add(new Option(" "+ i + " 日", i));   
+}   
+function IsPinYear(year)//判断是否闰平年   
+{
+	return(0 == year%4 && (year%100 !=0 || year%400 == 0));
+}   
+function optionsClear(e)   
+{   
+	e.options.length = 1;   
+}   
+
+	
+</script>
+</html>

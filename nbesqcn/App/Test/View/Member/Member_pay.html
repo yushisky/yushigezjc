@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<title>充值中心</title>
+	<include  file="Public:Member_header"/>
+	<script type="text/javascript">
+		//======== =======
+    	$(function(){
+	    $('.pay_content li a').click(function(){
+	        $('.pay_content li a').removeClass('activppla');
+	        $(this).addClass('activppla');
+	        // $('.activppla li').removeClass('activppla');
+	    });
+	    })
+	</script>
+	<div class="nav_conter f-l  mt-15">
+		<div class="nav-1">
+			<b><span>我的账户</span></b>
+			<ul class="nav-0">
+				<li ><a href="{:U('Member/index')}">&bull;&nbsp;账户设置</a></li>
+				<li ><a href="{:U('ticket')}">&bull;&nbsp;消费券</a></li>
+				<li ><a href="{:U('balance')}">&bull;&nbsp;我的余额</a></li>
+				<li ><a href="{:U('conter')}">&bull;&nbsp;安全中心</a></li>
+				<li  class="bgnav-box"><a href="{:U('recharge')}">&bull;&nbsp;充值中心</a><span class="f-r mr-10">&gt;</span></li>
+			</ul>
+			<b><span>我的评价</span></b>
+			<ul class="nav-0">
+				<li class="app_title2"><a href="{:U('stayapp')}">&bull;&nbsp;待评价</a><span>6</span></li>
+				<li><a href="{:U('appraise')}">&bull;&nbsp;已评价</a></li>
+			</ul>
+		</div>
+	</div>	
+		<ul class="mag_top_title mt-30 ml-50 f-l">
+			<li class="top_title radius"><span>充值中心</span></li>
+		</ul>
+		<div class="mag_content col-xs-9 col-md-9  col-lg-9 mt-30 ml-50 mb-50" >
+		<form action="get">
+			<ul class="pay_content">
+				<li><a href="#">50</a></li>
+				<li><a href="#">100</a></li>
+				<li><a href="#">200</a></li>
+				<li><a href="#">500</a></li>
+				<li><a href="#">1000</a></li>
+			</ul>
+			<div class="clear_float"></div>
+			<ul class="pay_contentone f-l">
+				<li>充值金额：</li>
+				<li><input type="text" name="" value=""></li>
+				<li>请输入大于或等于50的整数金额（1元=1积分）</li>
+			</ul>
+			<div class="clear_float"></div>
+			<ul class="pay_contentwo f-l">
+				<li>银行卡：</li>
+				<li><select name="" id="" style="width:260px; height:40px;">
+				<option value="1">顺德农商</option>
+				<option value="2">顺德工商</option>
+				<option value="3">顺德中国</option>
+				<option value="4">顺德农商</option>
+				</select>
+				</li>
+			</ul>
+			<div class="clear_float"></div>
+			<ul class="pay_contentthree f-l ml-30" >
+				<li>卡号：</li>
+				<li><input type="text" name="pass" value=""><img src="Test_TMPL/images/user_r4_c9.png" alt="images"><span>请填写信息</span></li>
+			</ul>
+			<ul class="pay_contentthree f-l" >
+				<li>支付密码：</li>
+				<li><input type="text" name="pass" value=""><img src="Test_TMPL/images/user_r4_c9.png" alt="images"><span>请填写信息</span></li>
+			</ul>
+			<div class="clear_float"></div>
+			<p class="sub"><input type="submit" value="确认提交"></p>
+		</form>
+		</div>
+	</div>
+	</div>
+</body>
+</html>
