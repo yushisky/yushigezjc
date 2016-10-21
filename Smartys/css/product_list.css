@@ -1,0 +1,5 @@
+/* 内容样式 开始 */
+.product-list {width: 681px; border: 1px solid #ccc;}
+.product-list li {width: 170px; text-align: center; height: 115px; float: left;}
+.product-photo { width: 80px; height: 80px;margin-top: 4px; }
+.product-name a {color: #333; }
