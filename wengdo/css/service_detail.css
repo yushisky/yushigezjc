@@ -1,0 +1,61 @@
+/*service_detail 页面样式*/
+.an_li ul li a:hover{border-top:1px solid #010101;line-height:8px;}
+.header_nav ul li i{color:#ccc;margin:0 20 0 10px;}
+.header_left{
+			 width:474px;
+			height:123px;
+			 margin-left:142px;
+			 float:left;
+			 }
+			 
+.header_right{	   
+		width:488px;
+		height:60px;	 
+		float:left;
+		margin-left:30px;
+		margin-top:27px;
+		background: #fbfbfb none repeat scroll 0 0;
+}
+.an_li a{	   
+		color:black;
+}	
+.header_right li{	
+		float:left;
+		margin-left:7px;
+		margin-top:12px;
+}	
+.deng_lu{
+		margin-left:305px;
+		margin-top:1px;
+}
+.deng_lu a{color:green;
+}
+.header_nav ul li a {
+    color: #010101;
+    padding-top: 10px;
+}
+
+/*banner 样式 start*/
+.banner{margin:0 auto;width:1150px;}
+/*banner 样式 end*/
+
+/*主体样式 start */
+.main{width:1150px;margin:0 auto;}
+.box_15{height:15px;}
+.box_30{height:30px;}
+.box_40{height:40px;}
+.box_300{height:300px;}
+/*当前位置 start*/
+.current{height:37px;line-height:37px;}
+.current p{margin-left:10px;color:#666;}
+.current p a{color:#666;font-size:14px;}
+/*当前位置 end*/
+
+/*服务详情 start*/
+.service_detail{padding:30px 50px 30px 40px;}
+.service_detail h2{text-align:center;font-size:30px;color:#333;}
+.service_detail h4{font-size:14px;color:#333;font-weight:normal;}
+.service_detail p{text-indent:2em;font-size:14px;color:#333;}
+.service_detail .nd_c{text-align:center;}
+/*服务详情 end*/
+/*主体样式 end */
