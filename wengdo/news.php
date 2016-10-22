@@ -45,7 +45,7 @@
 <body>
 	<div class="big_boss">
 		<!--头部开始-->
-		<?php include('header.php');?>
+		<?php include('header.php'); ?>
 	<div class="clear_float"></div>
 	<!--头部结束-->
 	<!--nav开始-->
