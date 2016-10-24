@@ -1,0 +1,6 @@
+.login {height: 330px; padding-top: 14px; margin-top: 60px;border-bottom: 1px dashed #dbdbdb;}
+.head {width: 333px; height: 60px; background: url(../images/login.jpg); border-bottom: 3px solid #1647a1; }
+.input-text {width: 187px; height: 19px;}
+.login-input {width: 333px; padding: 16px 0;border-bottom: 1px solid #1647a1;}
+.login-input tr {line-height: 28px}
+.note {color: #707070; line-height: 18px; text-indent: 6px; background: url(../images/note-ico.jpg) no-repeat left center;}
