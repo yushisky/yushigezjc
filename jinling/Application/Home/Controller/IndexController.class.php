@@ -60,6 +60,7 @@ class IndexController extends Controller {
     //         // http://www.jinling.com/home/Index/aaa
     //     }
      public function index(){
+        echo"22222222";
         // load ('@.three');
         // echo one();
         $article = D('article');
